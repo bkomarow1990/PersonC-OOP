@@ -55,6 +55,7 @@ class Student {
 		}
 		return true;
 	}
+
 private:
 	string name;
 	string surname;
